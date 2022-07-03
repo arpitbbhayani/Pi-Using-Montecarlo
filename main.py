@@ -2,6 +2,7 @@ import math
 import random
 import matplotlib.pyplot as mpl
 
+
 def approximate_pi(n):
   """for a particular random selection of `n`
   points in a unit square. Find how many lie
